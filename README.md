@@ -54,8 +54,8 @@ Direct developer email support can be purchased through a [Support Plan][4] or b
 [3]: https://stackoverflow.com/questions/tagged/lightningchart
 [4]: https://www.arction.com/support-services/
 
-[Axis]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.0/classes/axis.html
-[ChartXY]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.0/classes/chartxy.html
-[Dashboard]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.0/classes/dashboard.html
-[ProgressiveLineSeries]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.0/classes/progressivelineseries.html
-[SolidLine]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.0/classes/solidline.html
+[Axis]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/classes/axis.html
+[ChartXY]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/classes/chartxy.html
+[Dashboard]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/classes/dashboard.html
+[ProgressiveLineSeries]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/classes/progressivelineseries.html
+[SolidLine]: https://www.arction.com/lightningchart-js-api-documentation/v1.0.1/classes/solidline.html
